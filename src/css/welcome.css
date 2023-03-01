@@ -35,10 +35,6 @@
         gap: 32px;
     }
 
-    .descr-hotel {
-        max-width: 306px;
-    }
-
     .descr-room {
         max-width: 335px;
     }
@@ -90,5 +86,9 @@ screen and (max-width:767px) and (min-resolution:2) {
     .welcome {
         display: flex;
         flex-direction: column;
+    }
+
+    .descr-hotel {
+        max-width: 306px;
     }
 }
